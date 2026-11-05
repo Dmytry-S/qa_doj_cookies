@@ -1,0 +1,18 @@
+{
+  "cookies": [],
+  "origins": [
+    {
+      "origin": "http://104.168.59.50",
+      "localStorage": [
+        {
+          "name": "qa-dojo.token",
+          "value": "eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpZCI6MzAxMiwiaWF0IjoxNzkzOTEwMzEyLCJleHAiOjE3OTQ1MTUxMTJ9.N_auzzDNKcEOzsMxM9U7WbFwm6f_5EYxacJUKCXQ204"
+        },
+        {
+          "name": "qa-dojo.theme",
+          "value": "light"
+        }
+      ]
+    }
+  ]
+}
